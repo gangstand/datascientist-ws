@@ -7,6 +7,9 @@
 
 Используемые библиотека - pandas, re, matplotlib, pymorphy2, nltk, collections, wordcloud, pickle, sklearn, catboost, xgboost, numpy
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Анализ данных — это процесс сбора, преобразования, очистки и моделирования данных с целью обнаружения необходимой информации. Полученные результаты сообщаются, предлагая выводы и поддерживая принятие решений. Визуализация данных иногда используется для изображения данных для облегчения обнаружения полезных шаблонов в данных. Термины «Моделирование данных» и «Анализ данных» означают одно и то же.
 
 1.2 Разбиение сложных атрибутов.
